@@ -1,5 +1,5 @@
 # VideoGames Analysis and visualization
-![Alt text](/relative/path/to/video-games-of-2020.png.jpg?raw=true "Optional Title")
+![Alt text](/video-games-of-2020.png.jpg?raw=true "Optional Title")
 
 ### About the Dataset
 
